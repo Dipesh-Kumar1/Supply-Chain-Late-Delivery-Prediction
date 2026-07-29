@@ -1,5 +1,4 @@
-# AI-Powered Supply Chain Analytics & Inventory Optimization System
-
+# AI-Powered Supply Chain Analytics & Inventory Optimization Syste
 ## Overview
 
 This project aims to develop an end-to-end Data Science solution for analyzing supply chain operations and improving business decision-making.
