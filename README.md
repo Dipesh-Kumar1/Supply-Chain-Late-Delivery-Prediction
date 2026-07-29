@@ -1,13 +1,12 @@
 #  Supply Chain Late Delivery Prediction using Machine Learning
 
-An end-to-end Machine Learning project that predicts the probability of late deliveries using historical supply chain data.
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
+An end-to-end Machine Learning project that predicts the probability of late deliveries using historical supply chain data.
 
 ##  Project Overview
 
