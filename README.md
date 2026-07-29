@@ -111,3 +111,66 @@ After comparing multiple machine learning algorithms, Random Forest delivered th
 - **ROC-AUC Score:** 0.7574
 
 The model successfully identifies delivery delay risks and can assist businesses in making proactive logistics decisions.
+
+### Correlation Heatmap
+
+The following heatmap illustrates the correlation between numerical features in the dataset.
+
+<p align="center">
+  <img src="images/correlation_heatmap.png" width="850">
+</p>
+
+### Feature Importance
+
+The Random Forest model identifies the following features as the most influential in predicting late deliveries.
+
+<p align="center">
+  <img src="images/feature_importance.png" width="850">
+</p>
+
+### Confusion Matrix
+
+The confusion matrix shows the prediction performance of the final Random Forest model.
+
+<p align="center">
+  <img src="images/confusion_matrix_rf.png" width="700">
+</p>
+
+### Model Comparison
+
+Performance comparison of the machine learning models used in this project.
+
+<p align="center">
+  <img src="images/model_comparison.png" width="700">
+</p>
+
+##  Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Dipesh-Kumar1/Supply-Chain-Late-Delivery-Prediction.git
+```
+
+Move into the project directory:
+
+```bash
+cd Supply-Chain-Late-Delivery-Prediction
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+##  How to Run
+
+1. Clone this repository.
+2. Install the required libraries.
+3. Open the notebooks in Jupyter Notebook or Google Colab.
+4. Run the notebooks sequentially:
+
+- 01_Project_Understanding.ipynb
+- 02_Exploratory_Data_Analysis.ipynb
+- 03_Feature_Engineering.ipynb
+- 04_Machine_Learning.ipynb
